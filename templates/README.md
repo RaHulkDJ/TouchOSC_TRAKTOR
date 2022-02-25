@@ -1,0 +1,2 @@
+- Plantillas de control para TRAKTOR.  
+- Control Templates for TRAKTOR.
