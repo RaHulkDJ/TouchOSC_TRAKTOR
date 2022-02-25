@@ -1,5 +1,6 @@
 Mixer para controlar volumenes del DECK A y el DECK B.  
   
+  
 	FUNCIONES:  
 	
 	- Faders de control de volumen.  
@@ -11,7 +12,9 @@ Mixer para controlar volumenes del DECK A y el DECK B.
 	- Botón CUT: Baja el volumen al mínimo mientras se mantiene apretado, al soltarlo vueve al máximo volumen.  
 	- Botón UNCUT: Sube el volumen al máximo mientras se mantiene apretado, al soltarlo vueve al minimo volumen.  
 	- Botón PFL de pre-escucha.  
-	- Knob de volumen PFL para los auriculares.
+	- Knob de volumen PFL para los auriculares.  
+	  
+Mixer to control volumes of DECK A and DECK B.
 
 	FUNCTIONS: 
 	
