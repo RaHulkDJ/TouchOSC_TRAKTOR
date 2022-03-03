@@ -34,7 +34,7 @@ CONFIGURACIÓN / SETTINGS
   
 SCRIPT PARA CAMBIAR DE ETIQUETAS / SCRIPT TO CHANGE LABELS  
   
-- Este script cambia el valor y el color de la etiqueta del botón al seleccionar un botón.  
-- This script changes the value and color of the button label when selecting a button.
+- Este script cambia el valor y el color de la etiqueta del botón "Menu" al seleccionar un botón.  
+- This script changes the value and color of the "Menu" button label when selecting a button.
 
 ![script_cambio_valor_color_etiquetas](https://user-images.githubusercontent.com/89609127/156249982-8aa12eb3-f53c-4c2b-8a67-939a3b29d073.png)
