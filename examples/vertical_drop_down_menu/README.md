@@ -3,7 +3,8 @@ Menú desplegable vertical.
 	FUNCIONAMIENTO  
 	
 	- Menú desplegable construido sin usar RADIO, GRID, ni scripts. Sólo un GRUPO de botones y mensajes locales.  
-	- Muy fácil de modificar, para adaptarlo a vuestras necesidades.  
+	- Muy fácil de modificar, para adaptarlo a vuestras necesidades. 
+	- Los botones se pueden cambiar por cualquier otro elemento, knobs, faders, etc...
 	- El botón "Menu" abre y cierra el menú.
 	- Eligiendo un botón, el botón "Menu" cambia el nombre y el color dentro de la etiqueta por el del "Boton" seleccionado.  
 
@@ -12,7 +13,8 @@ Vertical dropdown menu.
 	FUNCTIONING  
 	  
 	- Dropdown menu built without using RADIO, GRID, or scripts. Just a GROUP of buttons and local messages.  
-	- Very easy to modify, to adapt it to your needs.  
+	- Very easy to modify, to adapt it to your needs. 
+	- The buttons can be changed for any other element, knobs, faders, etc...
 	- The "Menu" button opens and closes the menu.  
 	- Choosing a button, the "Menu" button changes the name and color inside the label to that of the selected "Button". 
 
