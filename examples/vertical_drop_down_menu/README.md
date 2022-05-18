@@ -25,33 +25,23 @@ CONFIGURACIÓN / SETTINGS
 - Mensaje Local botón "Menu": Este botón es el que determina el tamaño minimo y maximo del menú (GROUP).  
 - Local message "Menu" button: This button is the one that determines the minimum and maximum size of the menu (GROUP).  
 	
-![mensaje_local_boton_ menu](https://user-images.githubusercontent.com/89609127/156240513-740e146e-bcc9-403d-aaa5-7a0d8f9d5569.png)  
+  ![mensaje_local_boton_ menu](https://user-images.githubusercontent.com/89609127/156240513-740e146e-bcc9-403d-aaa5-7a0d8f9d5569.png)  
   
 - Mensaje local botones de selección: Este botón indicará sólo la medida minima del menú (GROUP) para que vuelva a su estado cerrado.  
 - Local message selection buttons: This button will indicate only the minimum size of the menu (GROUP) so that it returns to its closed state.  
   
-![mensaje_local_boton_ seleccion](https://user-images.githubusercontent.com/89609127/156242308-4353ffcb-1625-41b5-9c33-89c2a69bbb57.png)
+  ![mensaje_local_boton_ seleccion](https://user-images.githubusercontent.com/89609127/156242308-4353ffcb-1625-41b5-9c33-89c2a69bbb57.png)
   
-SCRIPT PARA CAMBIAR DE ETIQUETAS / SCRIPT TO CHANGE LABELS  
+- Mensaje Local cambio de etiqueta.
+- Local Message Label change.
   
-- Este script cambia el valor y el color de la etiqueta del botón "Menu" al seleccionar un botón.  
-- This script changes the value and color of the "Menu" button label when selecting a button.
+  ![cambio_etiqueta](https://user-images.githubusercontent.com/89609127/169112996-bb531911-8de5-4a67-affa-77f0e028109c.jpg)
+  
+- Mensaje Local cambio color Etiqueta.
 
-```lua
-    
--- Botón Menu/Button Menu
-function onValueChanged(string)
+- Local message change color Label.
 
-self.parent.children.label1.values.text = "Menu"
-self.parent.children.label1.textColor = Color.fromHexString("FFFFFFFF")
+  ![cambio_color_etiqueta](https://user-images.githubusercontent.com/89609127/169113701-22496829-f77b-4e39-8967-85f023e59b6e.jpg)
 
-end
 
--- Botón selección/Select button
-function onValueChanged(string)
 
-self.parent.children.label1.values.text = "Boton 1"
-self.parent.children.label1.textColor = Color.fromHexString("FF7200FF")
-
-end
-```
