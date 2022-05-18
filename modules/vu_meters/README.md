@@ -5,7 +5,7 @@ VUMeters para TRAKTOR 3.5.x
 	- Vúmetros para visualizar los niveles de los DECKS A/B.
 	- Vumetro para visualizar el nivel general.  
 	  
-VUMeters for TRAKTOR 3.5.xv  
+VUMeters for TRAKTOR 3.5.x
   
 	FUNCTIONS:  
 	- Vu meters to visualize the levels of the DECKS A/B.
