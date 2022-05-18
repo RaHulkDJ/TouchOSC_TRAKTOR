@@ -32,30 +32,16 @@ Vertical dropdown menu.
   
   ![mensaje_local_boton_ seleccion](https://user-images.githubusercontent.com/89609127/156649740-66e37f38-0ea5-4b49-a03e-8fd075c38422.png)
 
-SCRIPT PARA CAMBIAR DE ETIQUETAS / SCRIPT TO CHANGE LABELS  
-  
-- Este script cambia el valor y el color de la etiqueta del botón "Menu" al seleccionar un botón.  
-- This script changes the value and color of the "Menu" button label when selecting a button.  
-  
-```lua
-    
--- Botón Menu/Button Menu
-function onValueChanged(string)
 
-self.parent.children.label1.values.text = "Menu"
-self.parent.children.label1.textColor = Color.fromHexString("FFFFFFFF")
+- Mensaje Local cambio de etiqueta.
+- Local Message Label change.
 
-end
+   ![cambio_etiqueta ](https://user-images.githubusercontent.com/89609127/169119363-847de07c-98a2-483c-b416-bd827cee9ddd.jpg)
 
--- Botón selección/Select button  
-function onValueChanged(string)
-local tmpBoton = root:findAllByName("label1",true)
-tmpBoton[1].values.text = "Boton 1"
-tmpBoton[1].textColor = Color.fromHexString("FF7200FF")
-end  
-```  
-  
-AGRADECIMIENTOS/THANKS  
-  
-   ![agradecimientos](https://user-images.githubusercontent.com/89609127/156650468-343c9ea3-a064-4c75-9261-ff25180224e9.png)
+- Mensaje Local cambio color Etiqueta.
+- Local message change color Label.
+
+   ![cambio_color_etiqueta ](https://user-images.githubusercontent.com/89609127/169119601-508e3552-4acb-448a-aced-b4002d856840.jpg)
+
+
 
