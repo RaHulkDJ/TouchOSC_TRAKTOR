@@ -16,9 +16,7 @@ Fader with integrated gain level control (PFL) and VU.
      - PFL level VU.  
      - No scripts, only MIDI and Local Messages.
      
-
- 
-![fader_AdobeExpress](https://user-images.githubusercontent.com/89609127/177845522-da0f42cb-5d0c-452e-b8e4-80ebd292c769.gif)
+https://user-images.githubusercontent.com/89609127/177845917-c11d49d4-7e50-4e32-8164-8ebe096970d8.mp4
 
 
 
