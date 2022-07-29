@@ -1,4 +1,4 @@
-Botones Exclusivos
+Botones con Led
 
     FUNCIONAMIENTO
     
@@ -7,7 +7,7 @@ Botones Exclusivos
     - La asignación MIDI para que funcione, tiene que ser un mensaje de salida de vuestro software de mezclas o creación musical.
     
     
-Exclusive Buttons
+Buttons with Led
 
      FUNCTION
     
