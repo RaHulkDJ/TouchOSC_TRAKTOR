@@ -1,2 +1,2 @@
-- Plantillas de control para TRAKTOR.  
-- Control Templates for TRAKTOR.
+- TouchOSC control para TRAKTOR.  
+- TouchOSC Control for TRAKTOR.
